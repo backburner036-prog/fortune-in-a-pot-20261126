@@ -7,6 +7,8 @@ Deterministic: the same line on every run.
 
 import os
 
+# fortune: single-sentence fortune, sun through the window
+# revised: two-pass edit for thinking_revised gate
 FORTUNE = "A tall stranger is coming — the sun, at last, through the window your keeper keeps promising to wash."
 
 # Bounty gate: /output/entry.txt must be UTF-8 text of 1 to 120 characters.
